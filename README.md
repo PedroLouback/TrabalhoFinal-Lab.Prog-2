@@ -1,4 +1,4 @@
-Trabalho Final de Programação 2
+Trabalho Final de Programação de Computadores 2
 ===========
 [![Linguagem C++](https://img.shields.io/badge/Linguagem-C%2B%2B-green.svg)](https://github.com/PedroLouback/TrabalhoFinal-Prog.2)
 [![requirement](https://img.shields.io/badge/IDE-Visual%3A%3AStudio%3A%3AComunity2022-orange.svg)](https://visualstudio.microsoft.com/pt-br/downloads/)
