@@ -7,7 +7,7 @@ Trabalho final feito para conclusão do 2º período na matéria de `Laboratóri
 
 ## Diagrama de classe 
 
-![Imgur]([img]https://i.imgur.com/tjbFkOz.jpg)
+![Imgur](https://i.imgur.com/tjbFkOz.jpg)
 
 ## Observações
 
